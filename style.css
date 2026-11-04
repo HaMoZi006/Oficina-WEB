@@ -1,0 +1,20 @@
+     body {
+            background-color: #4cf8cd;
+            text-align: center;
+        }
+
+        h1 {
+            margin: 40px;
+        }
+
+        .imagens {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            gap: 20px;
+        }
+
+        img {
+            width: 400px;
+            border-radius: 10px;
+        }
